@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.b h2,h3{
+    text-align: center;
+}
+.c h2,h3{
+    text-align: center;
+}
+.d h2,h3{
+    text-align: center;
+}
+.e h2,h3{
+    text-align: center;
+}
+.a{
+    height: 1200px;
+    width: 1350px; ;
+    background-color: rgba(161, 78, 238, 0.89);
+    float: left;
+}
+.b{
+    height: 200px;
+    width: 300px;
+    background-color: rgba(110, 255, 42, 0.801);
+    float: left;
+    margin-top: 100px;
+    margin-left:600px ;
+    
+}
+.c{
+    height: 200px;
+    width: 300px;
+    background-color: rgba(57, 214, 206, 0.719);
+    float: left;
+    margin-top: 50px;
+    margin-left:600px ;
+}
+.d{
+    height: 200px;
+    width: 300px;
+    background-color: rgba(221, 171, 124, 0.877);
+    float: left;
+    margin-top: 50px;
+    margin-left:600px ;
+}
+.e{
+    height: 200px;
+    width: 300px;
+    background-color: rgba(214, 57, 180, 0.664);
+    float: left;
+    margin-top: 50px;
+    margin-left:600px ;
+}
